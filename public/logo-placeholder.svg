@@ -1,0 +1,20 @@
+<svg width="200" height="120" viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="60" r="50" fill="#454856" stroke="#A8BCE5" stroke-width="3"/>
+
+  <!-- KNI Text -->
+  <text x="100" y="45" font-family="Inter, sans-serif" font-size="24" font-weight="bold" fill="#A8BCE5" text-anchor="middle">KNI</text>
+
+  <!-- Computer Science Symbol -->
+  <rect x="85" y="65" width="30" height="20" rx="2" fill="#A8BCE5" opacity="0.8"/>
+  <rect x="87" y="67" width="26" height="16" rx="1" fill="#454856"/>
+  <rect x="89" y="69" width="22" height="2" fill="#A8BCE5"/>
+  <rect x="89" y="72" width="22" height="2" fill="#A8BCE5"/>
+  <rect x="89" y="75" width="15" height="2" fill="#A8BCE5"/>
+
+  <!-- Small decorative elements -->
+  <circle cx="70" cy="35" r="3" fill="#A8BCE5" opacity="0.6"/>
+  <circle cx="130" cy="85" r="3" fill="#A8BCE5" opacity="0.6"/>
+  <circle cx="75" cy="85" r="2" fill="#A8BCE5" opacity="0.4"/>
+  <circle cx="125" cy="35" r="2" fill="#A8BCE5" opacity="0.4"/>
+</svg>
