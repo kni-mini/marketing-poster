@@ -2,6 +2,8 @@
 
 A React TypeScript application for displaying a poster for Koło Naukowe Informatyków (Computer Science Student Circle) at Warsaw University of Technology.
 
+![screenshot](example.png)
+
 ## Features
 
 - Modern React 19 with TypeScript
